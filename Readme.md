@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Татьяна Мамчук](https://up.htmlacademy.ru/htmlcss-individual/2/user/1490537).
-* Наставник: `[Александр Зиновьев] (https://htmlacademy.ru/profile/id198751)`.
+* Наставник: [Александр Зиновьев] (https://htmlacademy.ru/profile/id198751).
 
 ---
 
